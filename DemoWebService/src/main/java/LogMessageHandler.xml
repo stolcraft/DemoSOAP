@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<handler-chains xmlns="http://java.sun.com/xml/ns/javaee">
+	<handler-chain>
+		<handler>
+			<handler-name>eu.ensup.demows.interceptor.SoapMessageHandler
+			</handler-name>
+			<handler-class>eu.ensup.demows.interceptor.SoapMessageHandler
+			</handler-class>
+		</handler>
+	</handler-chain>
+</handler-chains>
